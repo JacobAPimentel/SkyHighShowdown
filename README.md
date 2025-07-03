@@ -1,4 +1,4 @@
-![Sky High Showdown](https://i.imgur.com/qHwO5GT.png)
+![Sky High Showdown](https://i.imgur.com/qHwO5GT.png)  
 Get ready to experience a fast-paced, local competitive platforming shooter unlike anything you’ve played before. Conquer the complex move set and outpace your competitors. 
 Are your competitors catching up to you? Collect some weapons to give yourself the edge to stay in the lead! Utilize your weapons to shoot projectiles at the competition and knock them off the sides of the map, plunging them to their end. 
 Win 5 rounds by being the last player standing to claim the crown at the top of Sky High Showdown!
