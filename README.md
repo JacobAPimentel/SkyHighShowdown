@@ -19,4 +19,5 @@ Our game contains 6 unique weapons that you can find while traversing the tower:
 - **Blunderbuss:** an absurd shotgun with a pitiful range. Landing a shot will sure send your opponent flying.
 - **Recoil Crossbow:** a crossbow that sends the shooter flying. Can aid in traversal.
 
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 [![Static Badge](https://img.shields.io/badge/Download-red?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=grey&color=cyan)](https://drive.google.com/file/d/1sc7-n3YzUkvBqKRGOtJHrn_lJl6P_WMX/view?usp=sharing)
