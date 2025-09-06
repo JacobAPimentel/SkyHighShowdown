@@ -1,10 +1,10 @@
 ![Sky High Showdown](https://i.imgur.com/qHwO5GT.png)  
-Get ready to experience a fast-paced, local competitive platforming shooter unlike anything you’ve played before. Conquer the complex move set and outpace your competitors. 
-Are your competitors catching up to you? Collect some weapons to give yourself the edge to stay in the lead! Utilize your weapons to shoot projectiles at the competition and knock them off the sides of the map, plunging them to their end. 
-Win 5 rounds by being the last player standing to claim the crown at the top of Sky High Showdown!
+Get ready to experience a fast-paced, local competitive platforming shooter unlike anything you’ve played before. Conquer the towers and outpace your competitors. 
+Are your competitors catching up to you? Collect some toy weapons to give yourself the edge to stay in the lead! Utilize your weapons to shoot projectiles at the competition and knock them off the sides of the map, plunging them to their end. 
+Be the last player standing to claim the crown at the top of Sky High Showdown!
 
 # The Controls
-Our game aims to support controllers with analog sticks and Keyboard + Mouse controls. Control your player jumping, rolling, and shooting in our unique maps, dodging a various of obstacles and projectiles.
+Our game aims to support controllers with analog sticks and Keyboard + Mouse controls. Control your player jumping, rolling, and shooting in our randomly generated while trying to dodge enemies' projectiles.
 - **Jump** to elevate yourself across the terrain and avoid the fall below!
 - **Walk** for precise control of character movement!
 - **Sprint** to quickly navigate the level and make large jumps!
